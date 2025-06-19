@@ -4,13 +4,12 @@ Welcome! We are from the [BRAVE Research Center](https://brave.psychiatry.wisc.e
 This repository houses code used in our papers that published CEDA data. The data were collected at the University of Wisconsin - Madison under Dr. Ryan Herringa, and was funded by the National Institute of Mental Health ([NIMH project #R01 MH115910-05](https://reporter.nih.gov/search/yqWzqhobkUmkrxwdBt-5Tw/project-details/10412078)).
 
 
-
 ## Navigating the Repository
 Each paper has its own associated folder, listed in this parent directory, and contains the scripts used for preprocessing and analyzing the data (as appropriate). 
 Below is a list linking folder names to their corresponding paper citation.  
 ### Available papers with associated folder:
- 1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S.A., & Herringa, R.J. (under review). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study. 
-
+ 1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S.A., & Herringa, R.J. (under review). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study.
+ 2. [WootenEtAll2025](/WootenEtAll2025) - Wooten, W., Karpov, G., Bodison, C., Rich, H.M., Heyn, S.A., Russell, J.D., & Herringa, R.J. (under review). Emotional Engagement as an Emotion Regulation Tactic in Youth. 
 
 
 ## Brief CEDA Description
