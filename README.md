@@ -1,5 +1,5 @@
 # Cognitive-Emotional Development in Adolescence (CEDA) Study  
-Welcome! We are from the [BRAVE Research Center](https://brave.psychiatry.wisc.edu).   
+Welcome! We are from the [BRAVE Research Collaborative](https://brave.psychiatry.wisc.edu).   
 
 This repository houses code used in our papers that published CEDA data. The data were collected at the University of Wisconsin - Madison under Dr. Ryan Herringa, and was funded by the National Institute of Mental Health ([NIMH project #R01 MH115910-05](https://reporter.nih.gov/search/yqWzqhobkUmkrxwdBt-5Tw/project-details/10412078)).
 
