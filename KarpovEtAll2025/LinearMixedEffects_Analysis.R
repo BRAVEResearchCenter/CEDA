@@ -16,7 +16,7 @@
 #         Perspective: Negative pictures, Neutral pictures
 #   Regulation =
 #         EN-Back: 0-Back, 2-Back
-#         Perspective: Close, Far
+#         Perspective: Close (Emotionally Engage), Far (Emotionally Disengage)
 #
 # Missing data handled using Full Information Maximum Likelihood estimation (in MPlus: 'MLR')
 # Note: Behavioral analysis used the same models, only changing the dependent variable
@@ -55,6 +55,7 @@ allModels <- data.frame(paramHeader=character(),
                         pval=numeric(),
                         BetweenWithin=character(),
                         CI95=character(),
+                        pval2=numeric(),
                         stringsAsFactors=FALSE) 
 
 ## Looping through ROIs 
@@ -240,6 +241,11 @@ for (roiFile in fileList){
   cleanCI = subset(ci, paramHeader == "ROI.ON" & param!="CBCL" & param!="SLES" & param!="SEX") #remove variables of no interest
   listCI = paste(cleanCI$low2.5, cleanCI$up2.5, sep=", ") #get the lower and upper 2.5% interval
   cleanParams$CI95 = listCI
+
+  # MPlus does not provide p-values with more than 3 decimal precision.
+  # This causes issues for FDR correction, as any p-value < 0.001 has a value of 0.000
+  # Thus, the p-value is recalculated in R to a higher decimal precision from the z-score ('est_se'):
+  cleanParams$pval2 = 2*pnorm(-abs(cleanParams$est_se)) 
   
   # Add current ROI to master dataframe
   allModels = rbind(allModels, cleanParams)
@@ -252,7 +258,7 @@ for (roiFile in fileList){
   # Run FDR correction across all ROI/models
 correctedModels = allModels %>% 
   group_by(param) %>%  #group by each fixed effect
-  mutate(padj = p.adjust(pval, method="BH")) %>% #use B-H method (AKA FDR)
+  mutate(padj = p.adjust(pval2, method="BH")) %>% #use B-H method (AKA FDR)
   ungroup()
 
 # Identify significant fixed-effects using FDR corrected p-values
