@@ -15,7 +15,7 @@ Below is a list linking folder names to their corresponding paper citation.
 The following description is a brief overview of the CEDA study. For methodological and sample characteristic details, please refer to published manuscripts.
 
 ### Purpose
-The goal of this project was to track trajectories of implicit and explicit emotion regulation within the brain and body in healthy adolescents and adolescents with affective disorders with and without a history of maltreatment. 
+The goal of this project was to track trajectories of implicit and explicit emotion regulation within the brain and body in healthy adolescents and adolescents with internalizing disorders with and without a history of maltreatment. 
 
 ### Design 
 This project utilizes an accelerated longitudinal design, where youth between the ages of 10-17 were followed at a baseline and one year follow-up. Both youth and their parent/caregiver participated, where clinical assessment data, biological samples, brain structure, and brain and body function (via fMRI, skin conductance response, and heart rate variability) were collected during emotion regulation tasks.
