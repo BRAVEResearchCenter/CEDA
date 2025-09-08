@@ -9,7 +9,6 @@ Each paper has its own associated folder, listed in this parent directory, and c
 Below is a list linking folder names to their corresponding paper citation.  
 ### Available papers with associated folder:
  1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S.A., & Herringa, R.J. (under review). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study.
- 2. [WootenEtAll2025](/WootenEtAll2025) - Wooten, W., Karpov, G., Bodison, C., Rich, H.M., Heyn, S.A., Russell, J.D., & Herringa, R.J. (under review). Emotional Engagement as an Emotion Regulation Tactic in Youth. 
 
 
 ## Brief CEDA Description
