@@ -8,8 +8,7 @@ This repository houses code used in our papers that published CEDA data. The dat
 Each paper has its own associated folder, listed in this parent directory, and contains the scripts used for preprocessing and analyzing the data (as appropriate). 
 Below is a list linking folder names to their corresponding paper citation.  
 ### Available papers with associated folder:
- 1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S.A., & Herringa, R.J. (under review). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study.
-
+ 1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S. A., Russell, J. D., Keding, T. J., & Herringa, R. J. (2026). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study. Developmental Cognitive Neuroscience, 78, 101664. https://doi.org/10.1016/j.dcn.2025.101664
 
 ## Brief CEDA Description
 The following description is a brief overview of the CEDA study. For methodological and sample characteristic details, please refer to published manuscripts.
