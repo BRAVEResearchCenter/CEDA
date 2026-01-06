@@ -1,7 +1,7 @@
-# Karpov, Heyn, Russell, Keding, & Herringa, 2025
+# Karpov, Heyn, Russell, Keding, & Herringa, 2026
 
 This folder contains the code used in the following paper: 
-Karpov, G., Heyn, S.A., Russell, J.D., Keding, T.J., & Herringa, R.J. (under review). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study.
+Karpov, G., Heyn, S. A., Russell, J. D., Keding, T. J., & Herringa, R. J. (2026). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study. Developmental Cognitive Neuroscience, 78, 101664. https://doi.org/10.1016/j.dcn.2025.101664
 
 ### Overview of files
 1. `LinearMixedEffects_Analysis.R` - R code detailing the data transformation and statistical models. Mplus software runs the models specified in the code.
