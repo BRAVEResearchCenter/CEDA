@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # fMRI preprocessing script used in:
-# (Citation here)
+#     Karpov, G., Heyn, S. A., Russell, J. D., Keding, T. J., & Herringa, R. J. (2026).
+#     Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study. 
+#     Developmental Cognitive Neuroscience, 78, 101664. https://doi.org/10.1016/j.dcn.2025.101664
 
 # Done in 3 steps:
 #       1) Run basic preprocesing in fMRIPrep (v23.2.0)
