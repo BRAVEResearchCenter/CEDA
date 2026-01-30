@@ -1,4 +1,4 @@
-# Karpov, Kleinschmidt, Heyn, & Herringa, 2026
+# Karpov, Kleinschmidt, Heyn, Russell, & Herringa, 2026
 
 This folder contains the code used in the following paper: 
 Karpov, G., Kleinschmidt, B.W., Heyn, S.A., Russell, J.D., & Herringa, R.J. (under review). Differential adolescent neurodevelopment of emotion regulation across internalizing psychopathology and childhood adversity
