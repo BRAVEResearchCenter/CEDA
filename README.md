@@ -9,7 +9,7 @@ Each paper has its own associated folder, listed in this parent directory, and c
 Below is a list linking folder names to their corresponding paper citation.  
 ### Available papers with associated folder:
  1. [KarpovEtAll2025](/KarpovEtAll2025) - Karpov, G., Heyn, S. A., Russell, J. D., Keding, T. J., & Herringa, R. J. (2026). Neurodevelopmental correlates of emotion regulation in adolescence: An accelerated longitudinal study. Developmental Cognitive Neuroscience, 78, 101664. https://doi.org/10.1016/j.dcn.2025.101664
- 2. [KarpovEtAll2026](/KarpovEtAll2026) - Karpov, G., Kleinschmidt, B.W., Heyn, S. A., Russell, J. D., & Herringa, R. J. (under review). Differential adolescent neurodevelopment of emotion regulation across internalizing psychopathology and childhood adversity
+ 2. [KarpovEtAll2026](/KarpovEtAl2026) - Karpov, G., Kleinschmidt, B.W., Heyn, S. A., Russell, J. D., & Herringa, R. J. (under review). Differential adolescent neurodevelopment of emotion regulation across internalizing psychopathology and childhood adversity
 
 ## Brief CEDA Description
 The following description is a brief overview of the CEDA study. For methodological and sample characteristic details, please refer to published manuscripts.
