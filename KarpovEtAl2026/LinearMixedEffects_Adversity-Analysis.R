@@ -1,7 +1,8 @@
 # ---- LinearMixedEffects_Adversity-Analysis.R ----
 # 
 # Statistical analysis script used in:
-# (Final Citation here)
+# Karpov, G., Kleinschmidt, B. W., Heyn, S. A., Russell, J. D., & Herringa, R. J. (2026). Differential adolescent neurodevelopment of emotion processing across internalizing psychopathology and childhood adversity. Developmental Cognitive Neuroscience, 80, 101769. https://doi.org/10.1016/j.dcn.2026.101769
+#
 #
 # Exploratory analysis investigating the potential moderating effect of adversity in youth with internalizing disorders (ID group)
 # Requires MPlus.
