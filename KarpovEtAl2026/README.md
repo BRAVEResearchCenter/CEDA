@@ -1,7 +1,7 @@
 # Karpov, Kleinschmidt, Heyn, Russell, & Herringa, 2026
 
 This folder contains the code used in the following paper: 
-Karpov, G., Kleinschmidt, B.W., Heyn, S.A., Russell, J.D., & Herringa, R.J. (under review). Differential adolescent neurodevelopment of emotion regulation across internalizing psychopathology and childhood adversity
+Karpov, G., Kleinschmidt, B. W., Heyn, S. A., Russell, J. D., & Herringa, R. J. (2026). Differential adolescent neurodevelopment of emotion processing across internalizing psychopathology and childhood adversity. Developmental Cognitive Neuroscience, 80, 101769. https://doi.org/10.1016/j.dcn.2026.101769
 
 ### Overview of files
 1. `LinearMixedEffects_Group-Analysis.R` - R code detailing the main analysis comparing healthy controls and youth with internalizing disorders, including any data transformations and the statistical model. Mplus software runs the models specified in the code.
